@@ -1,12 +1,12 @@
 Output: NC Drill Files
 Type  : NC Drill
 From  : Project [VaccuumMetr.PrjPcb]
-   Generated File[PCB.TXT]
-   Generated File[PCB.LDP]
-   Generated File[PCB.DRR]
+   Generated File[control.TXT]
+   Generated File[control.LDP]
+   Generated File[control.DRR]
 
 
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 11:48:15 On 06.01.2021
+Finished Output Generation At 0:41:35 On 08.01.2021
