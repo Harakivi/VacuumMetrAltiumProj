@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=SensorPlate\SensorPlate_V0.01.PrjPcb
+[Project2]
+ProjectPath=controlPlate\ControlPlate_V0.01.PrjPcb
+[Project3]
+ProjectPath=MultiBoard_Project\MultiBoard_Project.PrjMbd
