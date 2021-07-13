@@ -1,0 +1,12 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [MultiBoard_Project.PrjMbd]
+   Generated File[control.RUL]
+   Generated File[control.EXTREP]
+   Generated File[control.REP]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 0:16:04 On 12.07.2021
