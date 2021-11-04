@@ -1,2 +1,2 @@
 # VaccumMetrAltiumProj
-AltiumProj
+AltiumDesigner Project
