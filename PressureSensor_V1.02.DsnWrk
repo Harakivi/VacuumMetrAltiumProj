@@ -1,8 +1,10 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=SensorPlate\SensorPlate_V0.01.PrjPcb
+ProjectPath=libs\MCP1702T-3302E_CB.LibPkg
 [Project2]
-ProjectPath=controlPlate\ControlPlate_V1.02.PrjPcb
+ProjectPath=SensorPlate\SensorPlate_V0.01.PrjPcb
 [Project3]
+ProjectPath=controlPlate\ControlPlate_V1.02.PrjPcb
+[Project4]
 ProjectPath=MultiBoard_Project\MultiBoard_Project.PrjMbd

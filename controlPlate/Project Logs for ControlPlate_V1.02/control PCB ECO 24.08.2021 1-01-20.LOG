@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=V3.3 Pin=Q2-1
+Removed Pin From Net: NetName=SecondStepBatt Pin=Q2-3
+Removed Pin From Net: NetName=SecondStepBatt Pin=R23-1
+Removed Pin From Net: NetName=NetQ2_2 Pin=R23-2
+Removed Pin From Net: NetName=NetQ2_2 Pin=U1-4
+Change Component Comment : Designator=Q2 Old Comment=IRLML0030TRPBF New Comment=IRLML9301TRPBF
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "SOT23_L"; UniqueID = "\OFPIBIHL" ("\OFPIBIHL")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Infineon Technologies"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "IRLML9301TRPBF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-23 Infineon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IRLML9301TRPBF/Infineon%20Technologies/view-part/2598123/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SecondStepBatt Pin=Q2-1
+Added Pin To Net: NetName=V3.3 Pin=Q2-3
+Added Pin To Net: NetName=V3.3 Pin=R23-1
+Added Pin To Net: NetName=SecondStepBatt Pin=R23-2

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=V3.3 Pin=Q2-2
+Removed Pin From Net: NetName=V3.3 Pin=R23-1
+Removed Pin From Net: NetName=NetQ3_3 Pin=U1-3
+Removed Member From Class: ClassName=control Member=Q2
+Removed Member From Class: ClassName=control Member=R23
+Change Component Comment : Designator=U1 Old Comment=AMS1117-3.3 New Comment=MCP1702T-3302E/CB
+Change component parameters: Designator = "U1" ("U1"); Footprint = "SOT229P700X180-4N"; UniqueID = "\WRCOOKHO" ("\WRCOOKHO")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MCP1702T-3302E/CB/Atmel/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Microchip Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MCP1702T-3302E/CB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/MCP1702T-3302E/CB/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MCP1702T-3302E/CB/Atmel/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC9_2 Pin=C10-2
+Added Pin To Net: NetName=NetC9_2 Pin=R2-1
+Added Pin To Net: NetName=NetC9_2 Pin=R3-1
+Added Pin To Net: NetName=NetC9_2 Pin=R10-2
+Added Pin To Net: NetName=NetC9_2 Pin=R14-2
+Added Pin To Net: NetName=V3.3 Pin=U1-2
+Added Pin To Net: NetName=Vpp Pin=U1-3
+Added Pin To Net: NetName=NetC9_2 Pin=U4-2
+Added Pin To Net: NetName=NetC9_2 Pin=U4-5
